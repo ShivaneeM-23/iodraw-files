@@ -179,15 +179,6 @@
         <mxCell id="-52Z-nBaO-nRMcSfD60M-163" value="email_notifications.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
           <mxGeometry x="930" y="649.9999999999999" width="221" height="188.46153846153842" as="geometry" />
         </mxCell>
-        <mxCell id="-52Z-nBaO-nRMcSfD60M-172" value="thumbnails" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
-          <mxGeometry x="2492" y="649.9999999999999" width="139" height="188.46153846153842" as="geometry" />
-        </mxCell>
-        <mxCell id="-52Z-nBaO-nRMcSfD60M-173" value="config.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
-          <mxGeometry x="2681" y="649.9999999999999" width="127" height="188.46153846153842" as="geometry" />
-        </mxCell>
-        <mxCell id="-52Z-nBaO-nRMcSfD60M-174" value="models.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
-          <mxGeometry x="2858" y="649.9999999999999" width="133" height="188.46153846153842" as="geometry" />
-        </mxCell>
         <mxCell id="-52Z-nBaO-nRMcSfD60M-175" value="requirements.txt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
           <mxGeometry x="3041" y="649.9999999999999" width="183" height="188.46153846153842" as="geometry" />
         </mxCell>
