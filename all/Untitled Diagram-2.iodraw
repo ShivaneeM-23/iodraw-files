@@ -378,8 +378,11 @@
         <mxCell id="bNH6ug1nb1EhCViDhjqK-2" value="VeriSent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bNH6ug1nb1EhCViDhjqK-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="98" width="50" height="30" as="geometry" />
+        <mxCell id="bNH6ug1nb1EhCViDhjqK-3" value="verisent-backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="98" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bNH6ug1nb1EhCViDhjqK-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="148" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
