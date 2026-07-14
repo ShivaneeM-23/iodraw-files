@@ -417,8 +417,8 @@
         <mxCell id="bNH6ug1nb1EhCViDhjqK-15" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="25" y="50" width="25" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="bNH6ug1nb1EhCViDhjqK-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="100" width="160" height="10" as="geometry" />
+        <mxCell id="bNH6ug1nb1EhCViDhjqK-17" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
