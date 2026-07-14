@@ -179,9 +179,6 @@
         <mxCell id="-52Z-nBaO-nRMcSfD60M-163" value="email_notifications.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
           <mxGeometry x="930" y="649.9999999999999" width="221" height="188.46153846153842" as="geometry" />
         </mxCell>
-        <mxCell id="-52Z-nBaO-nRMcSfD60M-165" value="ai_detection.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
-          <mxGeometry x="1200" y="649.9999999999999" width="173" height="188.46153846153842" as="geometry" />
-        </mxCell>
         <mxCell id="-52Z-nBaO-nRMcSfD60M-168" value="evidence.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-52Z-nBaO-nRMcSfD60M-156">
           <mxGeometry x="1830" y="649.9999999999999" width="147" height="188.46153846153842" as="geometry" />
         </mxCell>
@@ -243,15 +240,6 @@
             <Array as="points">
               <mxPoint x="1040" y="507.6923076923076" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-52Z-nBaO-nRMcSfD60M-184" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="-52Z-nBaO-nRMcSfD60M-156">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1508" y="507.6923076923076" />
-            </Array>
-            <mxPoint x="1666" y="322.0384615384619" as="sourcePoint" />
-            <mxPoint x="1508" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-52Z-nBaO-nRMcSfD60M-185" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="-52Z-nBaO-nRMcSfD60M-156">
